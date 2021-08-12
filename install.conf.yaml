@@ -11,6 +11,10 @@
 - create:
     - ~/Workspace
 
-# - shell:
+- shell:
 #   - [git submodule update --init --recursive, Installing submodules]
-
+    - 
+      command: ./test.zsh
+      stdout: true
+      stdin: true
+      stderr: true
