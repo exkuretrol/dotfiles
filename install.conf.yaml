@@ -12,9 +12,8 @@
     - ~/Workspace
 
 - shell:
-#   - [git submodule update --init --recursive, Installing submodules]
     - 
-      command: ./test.zsh
+      command: ./setup_homebrew.zsh
       stdout: true
       stdin: true
       stderr: true
