@@ -23,7 +23,7 @@ PROMPT='
 %1~ %L %# '
 RPROMPT='%*'
 
-# Add Locations to $PATH Variable
+# Add Locations to $path array
 typeset -U path
 
 path=(
