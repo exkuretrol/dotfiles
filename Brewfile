@@ -19,6 +19,8 @@ brew "httpie"
 brew "less"
 # Mac App Store command-line interface
 brew "mas"
+# Node version management
+brew "n"
 # UNIX shell (command interpreter)
 brew "zsh"
 # Bash scripts that integrate bat with various command-line tools
