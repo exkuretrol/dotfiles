@@ -1,9 +1,12 @@
 tap "eth-p/software"
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/cask-versions"
 tap "homebrew/core"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Emacs dependency management
+brew "cask"
 # Modern replacement for 'ls'
 brew "exa"
 # Improved top (interactive process viewer)
@@ -14,6 +17,8 @@ brew "httpie"
 brew "mas"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
+# Web browser
+cask "firefox-developer-edition"
 # Git client focusing on productivity
 cask "gitkraken"
 # Web browser
