@@ -9,10 +9,14 @@ brew "bat"
 brew "cask"
 # Modern replacement for 'ls'
 brew "exa"
+# Distributed revision control system
+brew "git"
 # Improved top (interactive process viewer)
 brew "htop"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Pager program similar to more
+brew "less"
 # Mac App Store command-line interface
 brew "mas"
 # Bash scripts that integrate bat with various command-line tools
