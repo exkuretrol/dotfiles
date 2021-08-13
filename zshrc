@@ -7,7 +7,7 @@ echo "Hello from zshrc"
 # Change ZSH Options
 
 # Create Aliases
-# alias ll='exa -laFh --git'
+alias ll='exa -laFh --git'
 alias exa='exa -laFh --git'
 alias man='batman'
 
