@@ -1,19 +1,23 @@
-# Taps
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-
-# Brews (Packages)
+# Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Emacs dependency management
 brew "cask"
-brew "git"
-brew "htop"
-brew "httpie"
+# Modern replacement for 'ls'
 brew "exa"
-
-# Casks (Applications)
+# Improved top (interactive process viewer)
+brew "htop"
+# User-friendly cURL replacement (command-line HTTP client)
+brew "httpie"
+# Application launcher and productivity software
 cask "alfred"
-cask "google-chrome"
-cask "visual-studio-code"
+# Client for the Dropbox cloud storage service
 cask "dropbox"
+# Git client focusing on productivity
 cask "gitkraken"
+# Web browser
+cask "google-chrome"
+# Open-source code editor
+cask "visual-studio-code"
