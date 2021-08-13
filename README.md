@@ -10,3 +10,4 @@ I'm learning about dotfiles at [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz)
 - Finder show path bar
 - Trackpad (Three finger drag and Tap to click
 - Git (Config and SSH)
+- Xnip (Disable shortcut command + shift + 4 for screenshots and use for Xnip)
