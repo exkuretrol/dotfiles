@@ -27,11 +27,7 @@ brew "zsh"
 brew "eth-p/software/bat-extras"
 # Web browser
 cask "firefox-developer-edition"
-# Git client focusing on productivity
-cask "gitkraken"
 # Web browser
 cask "google-chrome"
 # Open-source code editor
 cask "visual-studio-code"
-mas "Notability", id: 360593530
-mas "Xnip", id: 1221250572
