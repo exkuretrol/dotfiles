@@ -11,8 +11,6 @@ brew "exa"
 brew "git"
 # Improved top (interactive process viewer)
 brew "htop"
-# User-friendly cURL replacement (command-line HTTP client)
-brew "httpie"
 # Simple terminal UI for git commands
 brew "lazygit"
 # Pager program similar to more
@@ -29,5 +27,10 @@ brew "eth-p/software/bat-extras"
 cask "firefox-developer-edition"
 # Web browser
 cask "google-chrome"
+# Terminal emulator as alternative to Apple's Terminal app
+cask "iterm2"
+# Move and resize windows using keyboard shortcuts or snap areas
+cask "rectangle"
 # Open-source code editor
 cask "visual-studio-code"
+mas "Bitwarden", id: 1352778147
